@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1759504676 source:e:\codes (c++)\count frequencies of numbers (map)\main.cpp
+	<iostream>
+	<vector>
+	<map>
+
