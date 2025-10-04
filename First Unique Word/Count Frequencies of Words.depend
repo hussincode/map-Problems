@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1759580916 source:e:\codes (c++)\count frequencies of words\main.cpp
+	<iostream>
+	<map>
+	<vector>
+
